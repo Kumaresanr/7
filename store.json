@@ -1,0 +1,5 @@
+{
+  "images": {
+    "moviesapp-docker": "openjdk:8-jdk-alpine"
+  }
+}
